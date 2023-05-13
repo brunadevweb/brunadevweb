@@ -1,16 +1,39 @@
-### Hi there 👋
+<h3>hey, you're in Bruna's README </h3>
 
-<!--
-**brunadevweb/brunadevweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🖥️ let me show my techskills :
 
-Here are some ideas to get you started:
+-> <i>POO in </i> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,javascript" />
+  </a>
+
+-> <i>main frameworks </i>
+
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,idea" />
+  </a>
+  
+  -> <i>knowledge in DBs  </i>
+  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+  </a>
+  
+  -> test interfaces for API :
+  
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postman" />
+  </a>
+  
+  - 📝 currently learning :
+  
+  -> basic commands on Linux OS, authentication, cloud 
+  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,aws" />
+  </a>
+
+
+  
+
