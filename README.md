@@ -7,7 +7,7 @@
 </div>
 <br>
 
-- 🖥️ let me show my techskills :
+- 🖥️ let me show you my techskills :
 
 -> <i>POO in </i> 
 
