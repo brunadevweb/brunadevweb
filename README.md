@@ -15,7 +15,7 @@
     <img src="https://skillicons.dev/icons?i=java,javascript" />
   </a>
 
--> <i>main frameworks </i>
+-> <i>main IDEs </i>
 
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=spring,idea" />
@@ -35,7 +35,7 @@
   
   - 📝 currently learning :
   
-  -> basic commands on Linux OS, authentication, cloud 
+  -> Linux OS, authentication, cloud 
   
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,aws" />
